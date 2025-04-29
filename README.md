@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @icebeaar23
+- 👋 Hi, I’m @rgaanr
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning analyst data in python
 - 💞️ I’m looking to collaborate on the project or community
